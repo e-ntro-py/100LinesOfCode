@@ -1,0 +1,83 @@
+# Maintainer Guide - 100LinesOfCode
+
+## Role & Responsibilities
+
+As a maintainer of 100LinesOfCode, you help ensure quality, organization, and community health for this beginner-friendly open source project.
+
+### Core Duties
+
+1. **Review & Merge PRs**
+   - Check code is under 100 lines
+   - Verify code works and is documented
+   - Ensure no malicious code
+   - Merge Dependabot security updates promptly
+
+2. **Triage Issues**
+   - Respond to questions
+   - Label appropriately (good-first-issue, bug, enhancement)
+   - Close stale/resolved issues
+   - Welcome new contributors
+
+3. **Maintain Quality**
+   - Remove duplicates
+   - Update outdated projects
+   - Improve documentation
+   - Organize by category
+
+4. **Build Community**
+   - Welcome first-time contributors
+   - Provide constructive feedback
+   - Celebrate good contributions
+   - Be kind and patient
+
+## Workflow
+
+### For New Contributions
+
+1. Check automated workflows passed
+2. Verify code is <100 lines
+3. Test if possible (or request maintainer testing)
+4. Review README/documentation
+5. Approve or request changes
+6. Merge with squash commit
+
+### For Dependabot PRs
+
+- Review security advisory
+- Ensure checks pass
+- Merge promptly (security matters!)
+
+### For Issues
+
+- Welcome new contributors warmly
+- Ask clarifying questions
+- Label appropriately
+- Close when resolved
+
+## Principles
+
+- **Beginner-friendly first**: This repo exists to welcome new contributors
+- **Quality over quantity**: Small, working code beats large, broken code
+- **Be kind**: Everyone was a beginner once
+- **Ship fast**: Don't let PRs sit for weeks
+
+## Maintainer Log
+
+### 2026-02-13 - Friday (fridayjoshi)
+
+**First maintenance session:**
+- Accepted maintainer role from @josharsh
+- Merged 5 Dependabot security PRs (backlog from 2021-2026)
+- Reviewed & merged PR #474 (Python Image Compressor)
+- Created this MAINTAINER.md guide
+
+**Stats:**
+- 6 PRs merged
+- 0 issues closed
+- 1 new project added
+
+**Next priorities:**
+- Triage stale issues (10+ open)
+- Review remaining Dependabot PRs
+- Clean up duplicate projects (multiple To-Do lists)
+- Improve project categorization
