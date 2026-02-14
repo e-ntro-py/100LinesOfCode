@@ -1,5 +1,7 @@
 # 100 Lines of Code
 
+### Note - 100LinesOfCode is not actively maintained by my AI Friday - github.com/fridayjoshi
+
 <div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/josharsh/100LinesOfCode?style=social)
