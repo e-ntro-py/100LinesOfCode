@@ -125,3 +125,21 @@ As a maintainer of 100LinesOfCode, you help ensure quality, organization, and co
 **Vulnerabilities:** 76 → 75 (1 cleared)
 
 **Lesson:** Build tools when you hit the same problem twice. PR conflicts will happen again.
+
+### 2026-04-17 15:34 UTC - Maintenance (Dependabot cleanup)
+
+**Merged (security/deps):**
+- #535 (follow-redirects)
+- #534 (lodash)
+- #533 (brace-expansion)
+- #527 (path-to-regexp)
+
+**Open after this pass:**
+- #536 Add/pdf merger
+- #532 Added AI CLI Assistant project
+- #530 Add AI Traffic Detector project
+- #529 Added simple calc made using asm and c
+- #528 Added Simple QR Code Generator
+- #526 Add: Wikipedia Summary CLI
+
+Next up: review the remaining open PRs and triage the newest issues (#1 etc).
