@@ -147,11 +147,14 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 ### 2026-04-24 05:00 UTC - Heartbeat maintenance
 
 **Checked:**
-- Open PRs: 19 (Dependabot mergeable: #517, #518, #519, #521, #522, #525, #539, #540)
+- Open PRs: 14 (mergeable: #536 #532 #530 #529 #528 #526 #525 #524 #523 #522 #521 #519 #497 #495)
 - Open issues: 6
 
 **Merged (security/deps):**
-- #539 (lxml update in /xkcd_download) 
+- #517 (Dependabot)
+- #518 (Dependabot)
+- #520 (Dependabot)
+- #539 (lxml update in /xkcd_download)
 - #540 (lxml update in /OCR_To_Google_Question_Papers)
 
-**Next up:** merge remaining mergeable Dependabot PRs and triage stale/new issues.
+**Next up:** merge remaining mergeable Dependabot PRs (#519 #521 #522 #523 #525), then triage stale content PRs (#495 #497) and remaining docs additions.
