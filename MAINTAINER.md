@@ -158,3 +158,25 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 - #540 (lxml update in /OCR_To_Google_Question_Papers)
 
 **Next up:** merge remaining mergeable Dependabot PRs (#519 #521 #522 #523 #525), then triage stale content PRs (#495 #497) and remaining docs additions.
+
+### 2026-04-25 10:50 UTC - Heartbeat maintenance follow-through
+
+**Merged (Dependabot / security/deps):**
+- #519
+- #521
+- #522
+- #523 (already merged during the pass)
+- #525
+
+**Remaining mergeable PRs (triage next):**
+- #536 (human)
+- #532 (human)
+- #530 (human)
+- #529 (human)
+- #528 (human)
+- #526 (human)
+- #524 (human)
+- #497 (human)
+- #495 (human)
+
+**Next up:** triage stale human PRs (quick review, request changes if needed), then close/merge what is under 100 lines and well-documented.
