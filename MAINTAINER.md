@@ -171,7 +171,6 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 
 **Remaining mergeable PRs (triage next):**
 - #536 (human)
-- #532 (human)
 - #530 (human)
 - #529 (human)
 - #528 (human)
@@ -180,6 +179,6 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 - #497 (human)
 - #495 (human)
 
-**Next up:** triage stale human PRs (#532, #530, #529, #528, #526, #524, #497, #495), then close/merge what is under 100 lines and well-documented.
+**Next up:** triage stale human PRs (#530, #529, #528, #526, #524, #497, #495), then close/merge what is under 100 lines and well-documented.
 
-(Heartbeat merged #536 in this pass)
+(Heartbeat merged #536 and #532 in this pass)
