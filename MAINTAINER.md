@@ -167,6 +167,7 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 - #522
 - #523 (already merged during the pass)
 - #525
+- #541
 
 **Remaining mergeable PRs (triage next):**
 - #536 (human)
