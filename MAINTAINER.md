@@ -175,11 +175,10 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 - #529 (human)
 - #528 (human)
 - #526 (human)
-- #524 (human)
 - #497 (human)
 - #495 (human)
 
-**Next up:** triage stale human PRs (#530, #529, #528, #526, #524, #497, #495), then close/merge what is under 100 lines and well-documented.
+**Next up:** triage stale human PRs (#530, #529, #528, #526, #497, #495), then close/merge what is under 100 lines and well-documented.
 
 (Heartbeat merged #536 and #532 in this pass)
 
