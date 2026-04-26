@@ -190,3 +190,18 @@ Next up: review the remaining open PRs and triage the newest issues (#1 etc).
 
 **Next up:** quick triage these open issues (label + ask for specifics if needed), then shift back to mergeable PRs when they appear.
 
+### 2026-04-26 10:50 UTC - Heartbeat maintenance (issue triage)
+
+**Closed stale issues:**
+- #504
+- #501
+- #496
+- #448
+
+**Labeled:**
+- #438 -> enhancement
+
+**Open issues now (sample):**
+- #438 (enhancement)
+- #1 (enhancement, good first issue)
+
